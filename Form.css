@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/31/11/21/people-2557396_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
+#title{
+    width: 820px;
+    background-color: rgb(0, 0, 0, 0.9);
+    margin: auto;
+    color: #ffffff;
+    padding:20px 0px 20px 0px;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+#para{
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.8);
+    width: 740px;
+    margin:auto;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+
+}
+
+.main{
+    background-color: rgb(0, 0, 0, 0.8);
+    width: 820px;
+    margin: auto;
+    
+}
+
+form{
+    padding: 20px;
+}
+
+#a{
+    width: 150%;
+    height: 130%;
+}
+
+.a{
+    margin-left: 25px;
+    margin-top: 30px;
+
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+#name{
+    position: relative;
+    left: 200;
+    top: -37px;
+    width: 400px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+#firstNamePrompt{
+    position: relative;
+    left: 650;
+    top: -67px;
+}
+#p{
+    position: relative;
+    left: 240;
+    top: -37px;
+}
+
+.container{
+    display: inline;
+    position: relative;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 10px;
+    cursor: pointer;
+    left: 200;
+    top: -37px;
+    color: white;
+}
+
+.checkmark{
+    width: 20px; height: 20px;
+    margin: 5px;
+    position: relative;
+    top: 6px;
+}
+
+.dob{
+    position: relative;
+    left: 200;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+
+.age{
+    position: relative;
+    left: 200;
+    top: -37px;
+    width: 150px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+#reqAge{
+    position: relative;
+    left: 380;
+    top: -67px;
+}
+
+.institute{
+    position: relative;
+    left: 200;
+    top: -37px;
+    width: 582px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+
+.container2{
+    display: inline;
+    position: relative;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 10px;
+    cursor: pointer;
+    left: 200;
+    top: -37px;
+    color: white;
+}
+
+.checkmark2{
+    width: 20px; height: 20px;
+    margin: 5px;
+    position: relative;
+    top: 6px;
+}
+.email{
+    position: relative;
+    left: 200;
+    top: -37px;
+    width: 582px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+.code{
+    position: relative;
+    left: 200;
+    top: -37px;
+    width: 80px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+.number{
+    position: relative;
+    left: 200;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0 22px;
+}
+.container3{
+    display: inline;
+    position: relative;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 10px;
+    cursor: pointer;
+    left: 200;
+    top: -37px;
+    color: white;
+}
+
+.checkmark3{
+    width: 20px; height: 20px;
+    margin: 5px;
+    position: relative;
+    top: 6px;
+}
+button{
+    background-color:white;
+    display:block;
+    margin: 10px 0px;
+    text-align:center;
+    border-radius:12px;
+    border: 2px solid black;
+    padding: 18px 100px;
+    outline: navajowhite;
+    color:black;
+    cursor:pointer;
+    transition: 0.75px;
+    position: relative;
+    top: 10px;
+    left: 500px;
+    
+}
+
